@@ -108,3 +108,18 @@ The export behavior can be tweaked in the `n1h1lius.valheimdbdumper.cfg` file ge
 * **ExportFolder**: The absolute path where the dumped files will be saved. By default, it creates a `ValheimDB_Export` folder on your Desktop.
 * **DebugMode**: Enables extended debug logging for development purposes.
 * **OutputLog**: Toggles internal log file generation. Logging utilizes a custom color-coded internal system mapping files, methods, and stack traces.
+
+---
+
+### 🤝 Contributing & Support
+
+* **Found a bug?** Open an [Issue](https://github.com/n1h1lius/Valheim-DB-Dumper/issues).
+* **Want to help?** Pull Requests are welcome!
+* **Support the project:** If this mod helps you or your community, consider [Buying me a coffee](https://ko-fi.com/n1h1lius).
+
+---
+
+<p align="center">
+  Built with ☕ and ⚡ by <b>n1h1lius</b>
+</p>
+
