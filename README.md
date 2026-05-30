@@ -8,6 +8,8 @@
 
 Whether you are a modder, wiki maintainer, or data enthusiast, this tool provides a comprehensive pipeline to extract game assets effortlessly, paired with an out-of-the-box interactive web dashboard to browse your data.
 
+Find it on [NexusMods](https://www.nexusmods.com/valheim/mods/3374) or [Thunderstore](https://thunderstore.io/c/valheim/p/N1h1lius/ValheimDBDumper/)
+
 ---
 
 ## 🚀 Features
