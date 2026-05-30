@@ -1,7 +1,7 @@
 # 🗑 Valheim DB Dumper
 
 <p align="center">
-  <img src="https://i.ibb.co/DH7d4V75/VALHEIM-DB-DUMPER-LOGO.png" alt="Valheim DB Dumper Logo" width="700">
+  <img src="https://i.ibb.co/DH7d4V75/VALHEIM-DB-DUMPER-LOGO.png" alt="Valheim DB Dumper Logo" width="400">
 </p>
 
 **Valheim DB Dumper** is a powerful mod designed to extract and dump internal game database structures, 3D models, textures, and prefabs directly from Valheim into your local file system.
